@@ -1,0 +1,7 @@
+F:\Visual Studio 2019\My Projects\Rock.Paper.Scissors\Rock.Paper.Scissors\obj\Debug\Rock.Paper.Scissors.csproj.AssemblyReference.cache
+F:\Visual Studio 2019\My Projects\Rock.Paper.Scissors\Rock.Paper.Scissors\obj\Debug\Rock.Paper.Scissors.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2019\My Projects\Rock.Paper.Scissors\Rock.Paper.Scissors\bin\Debug\Rock.Paper.Scissors.exe.config
+F:\Visual Studio 2019\My Projects\Rock.Paper.Scissors\Rock.Paper.Scissors\bin\Debug\Rock.Paper.Scissors.exe
+F:\Visual Studio 2019\My Projects\Rock.Paper.Scissors\Rock.Paper.Scissors\bin\Debug\Rock.Paper.Scissors.pdb
+F:\Visual Studio 2019\My Projects\Rock.Paper.Scissors\Rock.Paper.Scissors\obj\Debug\Rock.Paper.Scissors.exe
+F:\Visual Studio 2019\My Projects\Rock.Paper.Scissors\Rock.Paper.Scissors\obj\Debug\Rock.Paper.Scissors.pdb
